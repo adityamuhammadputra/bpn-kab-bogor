@@ -1,0 +1,44 @@
+body
+{
+	background: rgb(42,63,84);
+}
+.position
+{
+	margin: auto;
+	position: relative;
+	top: 40px;
+}
+.pad
+{
+	position: relative;
+	top: 20px;
+}
+.padd
+{
+	position: relative;
+	top: 10px;
+	right: 3px;
+}
+.footside
+{
+	color: white;
+	position: relative;
+	left: 3px;
+}
+.rowsss
+{
+	width: 110px;
+}
+.warna
+{
+	background: rgb(42,63,84);
+	color: white;
+}
+.form-control
+{
+	border-radius: 5px;
+}
+.paddings
+{
+	padding: 10px;
+}
